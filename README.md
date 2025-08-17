@@ -2,46 +2,6 @@
 
 ---
 
-```markdown
-# 🎬 Movie Recommendation System
-
-A **Content-Based Movie Recommendation System** built using **Python, Pandas, scikit-learn (TF-IDF, Cosine Similarity)** and an interactive **Streamlit Web App**.
-
-The system recommends **Top-N similar movies** based on the movie selected by the user.
-
----
-
-## ✨ Features
-- Content-based filtering using:
-  - **TF-IDF Vectorization** on movie overview, tagline, genres
-  - **Cosine Similarity** for finding nearest movies
-- Interactive **Streamlit UI** for users
-- Search & select movies from dropdown
-- Displays top recommended movies with posters
-- Easy to deploy on **Heroku / Streamlit Cloud / Localhost**
-
----
-
-## 📂 Project Structure
-```
-
-movie-recommender/
-│
-├── data/
-│   └── movies.csv             # Dataset
-│
-├── src/
-│   └── app.py                 # Streamlit web app
-│
-├── venv/                      # Virtual environment (ignored in git)
-├── requirements.txt           # Dependencies
-├── .gitignore                 # Ignored files
-└── README.md                  # Project documentation
-
-````
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repo
@@ -129,3 +89,4 @@ This project is licensed under the MIT License.
 
 Do you want me to generate that file too?
 ```
+

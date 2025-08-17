@@ -24,7 +24,7 @@ Activate it:
 ### 3️⃣ Install dependencies
 
 ```bash
-pip install pandas numpy sktlearn
+pip install pandas numpy sklearn
 ```
 
 ### 4️⃣ Run the Streamlit app
@@ -89,5 +89,6 @@ This project is licensed under the MIT License.
 
 Do you want me to generate that file too?
 ```
+
 
 
